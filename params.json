@@ -199,7 +199,7 @@
       }
     }
   },
-  "name": "Haiku Starter for Chia-Yui Lee",
+  "name": "Haiku Starter for Chia-Yui Lee (prune-flow)",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -256,11 +256,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 122,
+    "versionNumber": 123,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1588056282579
+    "lastModifiedOn": 1588056285610
   },
   "creationTag": {
     "versionNumber": 0,
@@ -270,7 +270,7 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "This project works with the data used in the [Tutorials](https://academy.dataiku.com/latest/tutorial/index.html), and is a starting point for a number of learning materials.\n",
+  "shortDesc": "This project works with the data used in the [Tutorials](https://academy.dataiku.com/latest/tutorial/index.html), and is a starting point for a number of learning materials.\n\nThe project *HAIKU_STARTER_FOR_CHIA_YUI_LEE_PRUNE_FLOW* was copied from *DKU_HAIKU_STARTER* by Chia-Yui Lee on Apr 27th 2020",
   "tags": [
     "tutorial",
     "duplicated"
