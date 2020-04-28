@@ -1,0 +1,23 @@
+[
+  {
+    "execSQLLike": false,
+    "localDatasets": [],
+    "projectPrivileges": {
+      "admin": false,
+      "readProjectContent": false,
+      "writeProjectContent": false,
+      "exportDatasetsData": false,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false
+    },
+    "id": "7ZiKu0p7nO8wFyxA",
+    "key": "hioaLN1UgkrqpfXLXQexZPF6ZM6MKFmt",
+    "label": "Key for Web app standard webapp(9uR8h4m)",
+    "createdOn": 1508957132987
+  }
+]
