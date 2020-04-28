@@ -200,7 +200,6 @@
     }
   },
   "name": "Haiku Starter for Chia-Yui Lee",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -257,11 +256,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 121,
+    "versionNumber": 122,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1588055518564
+    "lastModifiedOn": 1588056282579
   },
   "creationTag": {
     "versionNumber": 0,
@@ -273,7 +272,8 @@
   "description": "",
   "shortDesc": "This project works with the data used in the [Tutorials](https://academy.dataiku.com/latest/tutorial/index.html), and is a starting point for a number of learning materials.\n",
   "tags": [
-    "tutorial"
+    "tutorial",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
